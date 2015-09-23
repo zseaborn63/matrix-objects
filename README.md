@@ -45,7 +45,7 @@ Implement two object types, `Matrix` and `Vector`. These objects should implemen
 * addition and subtraction
 * multiplication by a scalar
 * matrix multiplication by a vector
-* matrix multiplication by a matrix
+* matrix multiplication by a matrix (Good luck!)
 * vector dot product
 * vector magnitude
 
